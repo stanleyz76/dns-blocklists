@@ -1,4 +1,4 @@
-# Blocklist vytvořený z podvržených stránek odchycených aplikací Trend Micro Apex One Security Agent
+# Blocklist created from pages blacklisted by Trend Micro Apex One Security Agent
 #
 #
 
