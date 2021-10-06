@@ -1,1 +1,8 @@
+# Blocklist postupně vytvořený z podvržených stránek odchycených Trend Micro
+#
+#
+eu.rollmeout.xyz
+ponderousmuffled.com
+trkbc.com
 v2.trknex.com
+www.adspredictiv.com
