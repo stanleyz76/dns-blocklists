@@ -1,6 +1,7 @@
-# Blocklist postupně vytvořený z podvržených stránek odchycených Trend Micro
+# Blocklist vytvořený z podvržených stránek odchycených aplikací Trend Micro Apex One Security Agent
 #
 #
+
 eu.rollmeout.xyz
 ponderousmuffled.com
 trkbc.com
