@@ -1,8 +1,11 @@
 # Blocklist created from pages blacklisted by Trend Micro Apex One Security Agent
 
 eu.rollmeout.xyz
+herdthan.com
+limevisitedinaugurate.com
 ponderousmuffled.com
 ro3.biz
 trkbc.com
 v2.trknex.com
 www.adspredictiv.com
+
