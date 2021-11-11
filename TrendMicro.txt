@@ -1,6 +1,9 @@
 # Blocklist created from pages blacklisted by Trend Micro Apex One Security Agent
 
+alcoholicsort.com
+grandchildfee.com
 eu.rollmeout.xyz
+harolddebris.com
 herdthan.com
 limevisitedinaugurate.com
 pettybitternessablebodied.com
