@@ -1,5 +1,3 @@
-# Blocklist created from pages blacklisted by Trend Micro Apex One Security Agent
-
 adspredictiv.com
 ahacdn.me
 alcoholicsort.com
@@ -10,6 +8,7 @@ blockadsnot.com
 bongacams7.com
 celeritascdn.com
 creative.xxxiijmp.com
+crpop.livejasmin.com
 cstwpush.com
 dateddeed.com
 demet-ach.com
@@ -20,6 +19,7 @@ dolohen.com
 envelopeheadache.com
 fobogruca.com
 g3news.biz
+go.xxxiijmp.com
 grandchildfee.com
 hairoak.com
 harolddebris.com
@@ -71,4 +71,3 @@ wpu.sh
 wpush.org
 xml-api.online
 xmllover.com
-xxxiijmp.com
