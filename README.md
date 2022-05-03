@@ -1,2 +1,2 @@
 # Pi-hole - blocklists
-TrendMicro.txt -> manually updated based on blocked sites ba TrendMicro Apex One
+TrendMicro.txt -> manually updated based on blocked sites by TrendMicro Apex One
