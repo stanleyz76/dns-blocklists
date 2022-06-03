@@ -82,6 +82,7 @@ trknex.com
 ufpcdn.com
 umbrellaomendear.com
 uptimecdn.com
+js.wpadmngr.com
 wpadmngr.com
 wpu.sh
 wpush.org
