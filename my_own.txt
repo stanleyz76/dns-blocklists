@@ -1,21 +1,21 @@
-# MY OWN
-adtng.com
-adultfriendfinder.com
-bongacams.com
-camonster.com
-firecams.com
-fuqpremium.com
-fwetxfvxsjtw.com
-imagetwistcams.com
-letsdoeit.com
-livejasmin.com
-msbootycams.com
-naprivat.cz
-chaturbate.com
-obligationsovereign.com
-sex.cz
-sexomega.com
-skinstrip.net
-stripchat.com
-vocony.com
-voyeur-house.tv
+# ANNOYING SITES - MY OWN LIST
+0.0.0.0 adtng.com
+0.0.0.0 adultfriendfinder.com
+0.0.0.0 bongacams.com
+0.0.0.0 camonster.com
+0.0.0.0 firecams.com
+0.0.0.0 fuqpremium.com
+0.0.0.0 fwetxfvxsjtw.com
+0.0.0.0 imagetwistcams.com
+0.0.0.0 letsdoeit.com
+0.0.0.0 livejasmin.com
+0.0.0.0 msbootycams.com
+0.0.0.0 naprivat.cz
+0.0.0.0 chaturbate.com
+0.0.0.0 obligationsovereign.com
+0.0.0.0 sex.cz
+0.0.0.0 sexomega.com
+0.0.0.0 skinstrip.net
+0.0.0.0 stripchat.com
+0.0.0.0 vocony.com
+0.0.0.0 voyeur-house.tv
