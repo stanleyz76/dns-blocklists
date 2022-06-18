@@ -96,6 +96,7 @@
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 bongacams.com
 0.0.0.0 camonster.com
+0.0.0.0 classic.cams.com
 0.0.0.0 firecams.com
 0.0.0.0 fuqpremium.com
 0.0.0.0 fwetxfvxsjtw.com
