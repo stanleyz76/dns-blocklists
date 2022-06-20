@@ -38,6 +38,7 @@
 0.0.0.0 ir3.xyz
 0.0.0.0 jollytestpartying.com
 0.0.0.0 juryinvolving.com
+0.0.0.0 klemusvid.cc
 0.0.0.0 lib1.biz
 0.0.0.0 limevisitedinaugurate.com
 0.0.0.0 m.regbu.com
