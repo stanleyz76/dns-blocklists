@@ -100,6 +100,7 @@
 0.0.0.0 bongacams.com
 0.0.0.0 camonster.com
 0.0.0.0 classic.cams.com
+0.0.0.0 dachinogla.com
 0.0.0.0 firecams.com
 0.0.0.0 fuqpremium.com
 0.0.0.0 fwetxfvxsjtw.com
@@ -107,6 +108,7 @@
 0.0.0.0 info-mydates.com
 0.0.0.0 letsdoeit.com
 0.0.0.0 livejasmin.com
+0.0.0.0 crpop.livejasmin.com
 0.0.0.0 msbootycams.com
 0.0.0.0 naprivat.cz
 0.0.0.0 chaturbate.com
