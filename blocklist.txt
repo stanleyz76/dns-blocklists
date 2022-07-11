@@ -116,8 +116,11 @@
 0.0.0.0 chaturbate.com
 0.0.0.0 obligationsovereign.com
 0.0.0.0 sex.cz
+0.0.0.0 sexiwatch.com
 0.0.0.0 sexomega.com
 0.0.0.0 skinstrip.net
 0.0.0.0 stripchat.com
+0.0.0.0 syndication.realsrv.com
+0.0.0.0 vivporn.com
 0.0.0.0 vocony.com
 0.0.0.0 voyeur-house.tv
