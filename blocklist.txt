@@ -92,6 +92,7 @@
 0.0.0.0 wpadmngr.com
 0.0.0.0 wpu.sh
 0.0.0.0 wpush.org
+0.0.0.0 www.info-fetoo.com
 0.0.0.0 xml-api.online
 0.0.0.0 xmllover.com
 
