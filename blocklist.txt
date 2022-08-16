@@ -103,6 +103,7 @@
 # ANNOYING SITES - MY OWN LIST
 0.0.0.0 adtng.com
 0.0.0.0 adultfriendfinder.com
+0.0.0.0 benaughty.com
 0.0.0.0 bongacams.com
 0.0.0.0 camonster.com
 0.0.0.0 classic.cams.com
@@ -124,6 +125,7 @@
 0.0.0.0 chaturbate.com
 0.0.0.0 obligationsovereign.com
 0.0.0.0 onlyfreelatinaporn.com
+0.0.0.0 popunder.net
 0.0.0.0 sex.cz
 0.0.0.0 sexiwatch.com
 0.0.0.0 sexomega.com
