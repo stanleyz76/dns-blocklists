@@ -23,6 +23,7 @@
 0.0.0.0 directrankcl.com
 0.0.0.0 disruptorgan.com
 0.0.0.0 dolohen.com
+0.0.0.0 effectivecpmcontent.com
 0.0.0.0 enjisweeps.click
 0.0.0.0 entry-system.xyz
 0.0.0.0 envelopeheadache.com
