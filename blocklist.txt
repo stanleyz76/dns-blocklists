@@ -36,6 +36,7 @@
 0.0.0.0 harolddebris.com
 0.0.0.0 herdthan.com
 0.0.0.0 huffsongpp.site
+0.0.0.0 idea-shopping.xyz
 0.0.0.0 impressivepointcircular.com
 0.0.0.0 info-fetoo.com
 0.0.0.0 ir3.xyz
