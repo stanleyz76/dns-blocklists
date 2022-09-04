@@ -1,2 +1,2 @@
 # MY OWN WHITELIST
-*.unityads.unity3d.com			# Blitz: Rose of Heroes
+unity3d.com
