@@ -1,6 +1,4 @@
 # MY OWN WHITELIST
-#
-||unity3d.com^
-#
-||applovin.com^
-||applvn.com^
+@@|*.*.unity3d.com^$important
+@@|*.applovin.com^
+@@|*.applvn.com^
