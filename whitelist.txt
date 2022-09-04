@@ -1,3 +1,3 @@
 # MY OWN WHITELIST
-@@||unity3d.com^
-@@||applovin.com^
+*unity3d.com^
+*applovin.com
