@@ -1,5 +1,4 @@
 # MY OWN WHITELIST
-
 unity3d.com			# Blitz - Rise of Heroes
 applovin.com		# Smashing Four
 applvn.com			# Smashing Four
