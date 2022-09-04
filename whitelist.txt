@@ -1,8 +1,8 @@
-# MY OWN WHITELIST
+# AdGuard Home - My Own Whitelist
 
-# Blitz Advertising
-@@|*.*.unity3d.com^$important
+Blitz - Rise of Heroes (Advertising)
+@@||unity3d.com^$important
 
-# Smashing Four Advertising
-@@|*.applovin.com^$important
-@@|*.applvn.com^$important
+# Smashing Four (Advertising)
+@@||applovin.com^$important
+@@||applvn.com^$important
