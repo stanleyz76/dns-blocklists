@@ -1,2 +1,2 @@
 # MY OWN WHITELIST
-unity3d.com
+@@||unity3d.com^
