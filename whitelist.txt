@@ -1,3 +1,4 @@
 # MY OWN WHITELIST
-*unity3d.com^
-*applovin.com
+
+unity3d.com          #BLITZ
+applovin.com         #Smashing Four
