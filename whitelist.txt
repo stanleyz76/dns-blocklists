@@ -1,5 +1,6 @@
 # MY OWN WHITELIST
-
-unity3d.com # Blitz - Rise of Heroes (Advertising)
-applovin.com # Smashing Four (Advertising)
-applvn.com # Smashing Four (Advertising)
+#
+||unity3d.com^
+#
+||applovin.com^
+||applvn.com^
