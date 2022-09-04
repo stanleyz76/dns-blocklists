@@ -104,7 +104,7 @@
 0.0.0.0 xmllover.com
 
 # ANNOYING SITES - MY OWN LIST
-0.0.0.0 adtng.com
+||adtng.com
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 benaughty.com
 0.0.0.0 bongacams.com
@@ -113,7 +113,7 @@
 0.0.0.0 dachinogla.com
 0.0.0.0 bl.dates2flirt.com
 0.0.0.0 bl.flirthits4you.com
-0.0.0.0 firecams.com
+||firecams.com
 0.0.0.0 fuqpremium.com
 0.0.0.0 fwetxfvxsjtw.com
 0.0.0.0 getsex.xxx
