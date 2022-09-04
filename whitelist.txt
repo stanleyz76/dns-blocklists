@@ -1,4 +1,8 @@
 # MY OWN WHITELIST
-@@|*.*.unity3d.com^$important # Blitz Advertising
-@@|*.applovin.com^$important # Smashing Four Advertising
-@@|*.applvn.com^$important # Smashing Four Advertising
+
+# Blitz Advertising
+@@|*.*.unity3d.com^$important
+
+# Smashing Four Advertising
+@@|*.applovin.com^$important
+@@|*.applvn.com^$important
