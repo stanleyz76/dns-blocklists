@@ -1,2 +1,3 @@
 # MY OWN WHITELIST
 @@||unity3d.com^
+@@||applovin.com^
