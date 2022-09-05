@@ -1,6 +1,6 @@
 # AdGuard Home - My Own Whitelist
 
-Blitz - Rise of Heroes (Advertising)
+# Blitz - Rise of Heroes (Advertising)
 @@||unity3d.com^$important
 @@||supersonicads.com^$important
 
