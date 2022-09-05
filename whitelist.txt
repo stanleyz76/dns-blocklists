@@ -1,9 +1,11 @@
 # AdGuard Home - My Own Whitelist
 
 # Blitz - Rise of Heroes (Advertising)
+# Blocked by "AdGuard DNS filter" by default
 @@||unity3d.com^$important
 @@||supersonicads.com^$important
 
 # Smashing Four (Advertising)
+# Blocked by "AdGuard DNS filter" by default
 @@||applovin.com^$important
 @@||applvn.com^$important
