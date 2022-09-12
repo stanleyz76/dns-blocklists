@@ -1,4 +1,5 @@
-# TREND MICRO APEX ONE
+# AdGuard Blocklist
+## TREND MICRO APEX ONE
 0.0.0.0 adspredictiv.com
 0.0.0.0 ahacdn.me
 0.0.0.0 alcoholicsort.com
@@ -33,6 +34,7 @@
 0.0.0.0 free-coupons.network
 0.0.0.0 g3news.biz
 0.0.0.0 go.xxxiijmp.com
+|| graduatewonderentreaty.com
 0.0.0.0 grandchildfee.com
 0.0.0.0 hairoak.com
 0.0.0.0 harolddebris.com
@@ -105,7 +107,7 @@
 0.0.0.0 xml-api.online
 0.0.0.0 xmllover.com
 
-# ANNOYING SITES - MY OWN LIST
+## ANNOYING SITES - MY OWN LIST
 ||adtng.com
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 benaughty.com
