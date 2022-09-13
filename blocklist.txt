@@ -1,6 +1,6 @@
 # AdGuard Blocklist
 ## TREND MICRO APEX ONE
-0.0.0.0 adspredictiv.com
+||adspredictiv.com
 0.0.0.0 ahacdn.me
 0.0.0.0 alcoholicsort.com
 0.0.0.0 aphycolourses.info
@@ -34,7 +34,7 @@
 0.0.0.0 free-coupons.network
 0.0.0.0 g3news.biz
 0.0.0.0 go.xxxiijmp.com
-|| graduatewonderentreaty.com
+||graduatewonderentreaty.com
 0.0.0.0 grandchildfee.com
 0.0.0.0 hairoak.com
 0.0.0.0 harolddebris.com
