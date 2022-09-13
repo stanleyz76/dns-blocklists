@@ -1,4 +1,5 @@
 # AdGuard Home - My Own Whitelist
+# Syntax is not compatible with PiHole !
 
 # Blitz - Rise of Heroes (Advertising)
 # Blocked by "AdGuard DNS filter" by default
