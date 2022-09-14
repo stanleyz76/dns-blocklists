@@ -1,7 +1,7 @@
 # AdGuard Home - My Own Blocklist
 # Syntax is not compatible with PiHole !
 
-## TREND MICRO APEX ONE
+## Blocked by - TREND MICRO SECURITY AGENT
 ||adspredictiv.com
 ||ahacdn.me
 ||alcoholicsort.com
