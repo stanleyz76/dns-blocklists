@@ -1,4 +1,4 @@
-# AdGuard Home - My Own Whitelist
+# AdGuard Home - My Personal Whitelist
 # Syntax is not compatible with PiHole !
 
 # Blitz - Rise of Heroes (Advertising)
