@@ -3,6 +3,7 @@
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||adspredictiv.com
+||advertizementforyour.com
 ||ahacdn.me
 ||alcoholicsort.com
 ||aphycolourses.info
