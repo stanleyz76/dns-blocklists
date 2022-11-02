@@ -91,6 +91,7 @@
 ||rollmeout.xyz
 ||rulefloor.com
 ||sedna-aca.com
+||serversmatrixaggregation.com
 ||srvpcn.com
 ||sw.wpush.org
 ||takiparkrb.site
