@@ -15,3 +15,4 @@
 # Microsoft Winget
 # Blocked by "AdGuard DNS filter" by default
 @@||tattle.api.osano.com
+@@||c.go-mpulse.net
