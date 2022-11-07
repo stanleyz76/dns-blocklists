@@ -11,3 +11,7 @@
 # Blocked by "AdGuard DNS filter" by default
 @@||applovin.com^$important
 @@||applvn.com^$important
+
+# Microsoft Winget
+# Blocked by "AdGuard DNS filter" by default
+@@||tattle.api.osano.com
