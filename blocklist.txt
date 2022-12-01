@@ -115,6 +115,7 @@
 ||ufpcdn.com
 ||umbrellaomendear.com
 ||uptimecdn.com
+||wastedinvaluable.com
 ||wpadmngr.com
 ||wpu.sh
 ||wpush.org
