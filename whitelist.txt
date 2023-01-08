@@ -11,6 +11,7 @@
 @@||unity3d.com^$important
 @@||applovin.com^$important
 @@||applvn.com^$important
+# Added 2023-01-08
 @@||app.adjust.world^$important
 @@||app.adjust.net.in^$important
 @@||app.adjust.com^$important
