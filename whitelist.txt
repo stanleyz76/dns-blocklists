@@ -3,12 +3,12 @@
 
 # Blitz - Rise of Heroes (Advertising)
 # Blocked by "AdGuard DNS filter" by default
-# @@||unity3d.com^$important
 # @@||supersonicads.com^$important
 # @@||pagead2.googleadservices.com^$important
 
 # Smashing Four (Advertising)
 # Blocked by "AdGuard DNS filter" by default
+@@||unity3d.com^$important
 @@||applovin.com^$important
 @@||applvn.com^$important
 @@||app.adjust.world^$important
