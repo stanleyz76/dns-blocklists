@@ -14,3 +14,4 @@
 @@||app.adjust.world              # 2023-01-08
 @@||app.adjust.net.in             # 2023-01-08
 @@||app.adjust.com                # 2023-01-08
+@@||adsmoloco.com                 # 2023-01-08
