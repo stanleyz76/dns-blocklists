@@ -11,3 +11,6 @@
 # Blocked by "AdGuard DNS filter" by default
 @@||applovin.com^$important
 @@||applvn.com^$important
+@@||app.adjust.world
+@@||app.adjust.net.in
+@@||app.adjust.com
