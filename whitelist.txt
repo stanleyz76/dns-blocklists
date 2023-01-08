@@ -15,3 +15,4 @@
 @@||app.adjust.net.in^$important
 @@||app.adjust.com^$important
 @@||adsmoloco.com^$important
+@@||ads.api.vungle.com^$important
