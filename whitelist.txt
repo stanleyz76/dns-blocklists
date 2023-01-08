@@ -11,7 +11,7 @@
 # Blocked by "AdGuard DNS filter" by default
 @@||applovin.com^$important
 @@||applvn.com^$important
-@@||app.adjust.world^$important              # 2023-01-08
-@@||app.adjust.net.in^$important             # 2023-01-08
-@@||app.adjust.com^$important                # 2023-01-08
-@@||adsmoloco.com^$important                 # 2023-01-08
+@@||app.adjust.world^$important
+@@||app.adjust.net.in^$important
+@@||app.adjust.com^$important
+@@||adsmoloco.com^$important
