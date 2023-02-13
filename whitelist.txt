@@ -1,21 +1,16 @@
 # AdGuard Home - My Personal Whitelist
 # Syntax is not compatible with PiHole !
 
-# Blitz - Rise of Heroes (Advertising)
-# Blocked by "AdGuard DNS filter" by default
-# @@||supersonicads.com^$important
-# @@||pagead2.googleadservices.com^$important
-
 # Smashing Four (Advertising)
 # Blocked by "AdGuard DNS filter" by default
 @@||unity3d.com^$important
 @@||applovin.com^$important
 @@||applvn.com^$important
 # Added 2023-01-08
-@@||app.adjust.world^$important
-@@||app.adjust.net.in^$important
-@@||app.adjust.com^$important
+@@||adjust.world^$important
+@@||adjust.net.in^$important
+@@||adjust.com^$important
 @@||adsmoloco.com^$important
-@@||ads.api.vungle.com^$important
+@@||api.vungle.com^$important
 # Added 2023-02-13
 @@||ads.vungle.com^$important
