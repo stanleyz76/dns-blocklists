@@ -18,4 +18,4 @@
 @@||adsmoloco.com^$important
 @@||ads.api.vungle.com^$important
 # Added 2023-02-13
-@@||ads.vungle.com
+@@||ads.vungle.com^$important
