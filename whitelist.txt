@@ -11,9 +11,7 @@
 @@||adjust.net.in^$important
 @@||adjust.com^$important
 @@||adsmoloco.com^$important
-@@||api.vungle.com^$important
-# Added 2023-02-13
-@@||ads.vungle.com^$important
 # Added 2023-02-14
+@@||vungle.com^$important
 @@||googleads.g.doubleclick.net^$important
 @@||pagead2.googlesyndication.com^$important
