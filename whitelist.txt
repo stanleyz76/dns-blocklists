@@ -16,3 +16,4 @@
 @@||ads.vungle.com^$important
 # Added 2023-02-14
 @@||googleads.g.doubleclick.net^$important
+@@||pagead2.googlesyndication.com^$important
