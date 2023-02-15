@@ -1,5 +1,4 @@
 # AdGuard Home - My Personal Blocklist
-# Syntax is not compatible with PiHole !
 # Last changes - 2023-02-15
 
 ## Blocked by - TREND MICRO SECURITY AGENT
