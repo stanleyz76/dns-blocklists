@@ -1,5 +1,4 @@
 # AdGuard Home - My Personal Whitelist
-# Syntax is not compatible with PiHole !
 # Last changes - Added 2023-02-14
 
 # Smashing Four (Advertising)
