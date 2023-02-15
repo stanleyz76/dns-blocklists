@@ -1,1 +1,1 @@
-# AdGuard - personal blocklist / whitelist
+# AdGuard Home - personal blocklist / whitelist
