@@ -125,6 +125,7 @@
 ||umbrellaomendear.com^
 ||uptimecdn.com^
 ||wastedinvaluable.com^
+||web.finstoriesnews.com^
 ||wpadmngr.com^
 ||wpu.sh^
 ||wpush.org^
