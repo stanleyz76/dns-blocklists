@@ -3,21 +3,21 @@
 
 # Smashing Four (Advertising)
 # Blocked by "AdGuard DNS filter" by default
-@@||unity3d.com^$important|ctag=~device_phone|~device_tablet
-@@||applovin.com^$important|ctag=~device_phone|~device_tablet
-@@||applvn.com^$important|ctag=~device_phone|~device_tablet
+@@||unity3d.com^$important|ctag=device_phone|device_tablet
+@@||applovin.com^$important|ctag=device_phone|device_tablet
+@@||applvn.com^$important|ctag=device_phone|device_tablet
 
 # Added 2023-01-08
-@@||adjust.world^$important|ctag=~device_phone|~device_tablet
-@@||adjust.net.in^$important|ctag=~device_phone|~device_tablet
-@@||adjust.com^$important|ctag=~device_phone|~device_tablet
-@@||adsmoloco.com^$important|ctag=~device_phone|~device_tablet
+@@||adjust.world^$important|ctag=device_phone|device_tablet
+@@||adjust.net.in^$important|ctag=device_phone|device_tablet
+@@||adjust.com^$important|ctag=device_phone|device_tablet
+@@||adsmoloco.com^$important|ctag=device_phone|device_tablet
 
 # Added 2023-02-14
-@@||vungle.com^$important|ctag=~device_phone|device_tablet
-@@||googleads.g.doubleclick.net^$important|ctag=~device_phone|~device_tablet
-@@||pagead2.googlesyndication.com^$important|ctag=~device_phone|~device_tablet
+@@||vungle.com^$important|ctag=device_phone|device_tablet
+@@||googleads.g.doubleclick.net^$important|ctag=device_phone|device_tablet
+@@||pagead2.googlesyndication.com^$important|ctag=device_phone|device_tablet
 
 # Added 2023-02-17
-@@||csi.gstatic.com^$important|ctag=~device_phone|~device_tablet
-@@||app-measurement.com^$important|ctag=~device_phone|~device_tablet
+@@||csi.gstatic.com^$important|ctag=device_phone|device_tablet
+@@||app-measurement.com^$important|ctag=device_phone|device_tablet
