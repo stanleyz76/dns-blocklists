@@ -15,3 +15,5 @@
 @@||vungle.com^$important
 @@||googleads.g.doubleclick.net^$important
 @@||pagead2.googlesyndication.com^$important
+# Added 2023-02-17
+@@||csi.gstatic.com^$important
