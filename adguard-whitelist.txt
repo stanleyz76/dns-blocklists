@@ -22,5 +22,6 @@
 @@||csi.gstatic.com^$ctag=device_phone|device_tablet
 @@||app-measurement.com^$ctag=device_phone|device_tablet
 
+# Avast Ultimate Security - problem with licensing on mobile devices
 # Added 2023-03-14
 @@||analytics.ff.avast.com^$ctag=device_phone|device_tablet
