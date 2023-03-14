@@ -26,6 +26,6 @@
 # Added 2023-03-14
 @@||analytics.ff.avast.com^$ctag=device_phone|device_tablet
 
-# CSOB banking
+# Banking
 # Added 2023-03-14
 @@||data-api.csob.cz^$ctag=device_phone|device_tablet
