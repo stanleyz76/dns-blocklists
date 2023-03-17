@@ -29,6 +29,3 @@
 # Banking
 # Added 2023-03-14
 @@||data-api.csob.cz^$ctag=device_phone|device_tablet
-
-# Forum Mercedes-Benz
-@@||toplist.cz$important
