@@ -71,6 +71,7 @@
 ||mybetterdl.com^
 ||myedytaclub.com^
 ||new.bonebow.top^
+||new.copperforged.top^
 ||new-incoming.email^
 ||news02.biz^
 ||niceanimegames.com^
