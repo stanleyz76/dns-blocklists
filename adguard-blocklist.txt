@@ -110,6 +110,7 @@
 ||rulefloor.com^
 ||sedna-aca.com^
 ||serversmatrixaggregation.com^
+||shadowgarden.info^
 ||slobcarpstun.com^
 ||specialistinsensitive.com^
 ||srvpcn.com^
