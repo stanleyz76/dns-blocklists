@@ -23,6 +23,8 @@
 ## Added 2023-03-28
 @@||supersonicads.com^$ctag=device_phone|device_tablet
 @@||inner-active.mobi^$ctag=device_phone|device_tablet
+## Added 2023-04-07
+@@||doubleclick.net^$ctag=device_phone|device_tablet
 
 # Avast Ultimate Security - problem with licensing on mobile devices
 ## Added 2023-03-14
