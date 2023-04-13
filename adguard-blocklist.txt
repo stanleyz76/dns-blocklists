@@ -71,6 +71,7 @@
 ||mybetterck.com^
 ||mybetterdl.com^
 ||myedytaclub.com^
+||nancontrast.com^
 ||new.bonebow.top^
 ||new.copperforged.top^
 ||new-incoming.email^
