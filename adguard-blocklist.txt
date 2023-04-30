@@ -111,6 +111,7 @@
 ||ro3.biz^
 ||rollmeout.xyz^
 ||rulefloor.com^
+||secondcommander.com^
 ||sedna-aca.com^
 ||serversmatrixaggregation.com^
 ||shadowgarden.info^
