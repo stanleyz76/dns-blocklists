@@ -3,35 +3,35 @@
 
 # Smashing Four (Advertising)
 ## Blocked by "AdGuard DNS filter" by default
-@@||unity3d.com^$ctag=device_phone|device_tablet
-@@||applovin.com^$ctag=device_phone|device_tablet
-@@||applvn.com^$ctag=device_phone|device_tablet
+@@||unity3d.com^$ctag=os_android|os_ios
+@@||applovin.com^$ctag=os_android|os_ios
+@@||applvn.com^$ctag=os_android|os_ios
 ## Added 2023-01-08
-@@||adjust.world^$ctag=device_phone|device_tablet
-@@||adjust.net.in^$ctag=device_phone|device_tablet
-@@||adjust.com^$ctag=device_phone|device_tablet
-@@||adsmoloco.com^$ctag=device_phone|device_tablet
+@@||adjust.world^$ctag=os_android|os_ios
+@@||adjust.net.in^$ctag=os_android|os_ios
+@@||adjust.com^$ctag=os_android|os_ios
+@@||adsmoloco.com^$ctag=os_android|os_ios
 ## Added 2023-02-14
-@@||vungle.com^$ctag=device_phone|device_tablet
-@@||googleads.g.doubleclick.net^$ctag=device_phone|device_tablet
-@@||pagead2.googlesyndication.com^$ctag=device_phone|device_tablet
+@@||vungle.com^$ctag=os_android|os_ios
+@@||googleads.g.doubleclick.net^$ctag=os_android|os_ios
+@@||pagead2.googlesyndication.com^$ctag=os_android|os_ios
 ## Added 2023-02-17
-@@||csi.gstatic.com^$ctag=device_phone|device_tablet
-@@||app-measurement.com^$ctag=device_phone|device_tablet
+@@||csi.gstatic.com^$ctag=os_android|os_ios
+@@||app-measurement.com^$ctag=os_android|os_ios
 
 # Sunrise Village
 ## Added 2023-03-28
-@@||supersonicads.com^$ctag=device_phone|device_tablet
-@@||inner-active.mobi^$ctag=device_phone|device_tablet
+@@||supersonicads.com^$ctag=os_android|os_ios
+@@||inner-active.mobi^$ctag=os_android|os_ios
 ## Added 2023-04-07
-@@||doubleclick.net^$ctag=device_phone|device_tablet
+@@||doubleclick.net^$ctag=os_android|os_ios
 ## Added 2023-05-05
-@@||singular.net^$ctag=device_phone|device_tablet
+@@||singular.net^$ctag=os_android|os_ios
 
 # Avast Ultimate Security - problem with licensing on mobile devices
 ## Added 2023-03-14
-@@||analytics.ff.avast.com^$ctag=device_phone|device_tablet
+@@||analytics.ff.avast.com^$ctag=os_android|os_ios
 
 # Banking
 ## Added 2023-03-14
-@@||data-api.csob.cz^$ctag=device_phone|device_tablet
+@@||data-api.csob.cz^$ctag=os_android|os_ios
