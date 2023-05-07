@@ -25,10 +25,9 @@
 @@||inner-active.mobi^$ctag=os_android|os_ios
 ## Added 2023-04-07
 @@||doubleclick.net^$ctag=os_android|os_ios
-## Added 2023-05-05
+### Added 2023-05-05
 @@||singular.net^$ctag=os_android|os_ios
-## Addes 2023-05-07
-## Google services
+## Added 2023-05-07 (Google services)
 @@||gvt2.com^$ctag=os_android|os_ios
 @@||gvt3.com^$ctag=os_android|os_ios
 @@||googlesyndication.com^$ctag=os_android|os_ios
