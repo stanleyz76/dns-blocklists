@@ -28,6 +28,7 @@
 ## Added 2023-05-05
 @@||singular.net^$ctag=os_android|os_ios
 ## Addes 2023-05-07
+## Google services
 @@||gvt2.com^$ctag=os_android|os_ios
 @@||gvt3.com^$ctag=os_android|os_ios
 
