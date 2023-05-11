@@ -39,3 +39,5 @@
 # Banking
 ## Added 2023-03-14
 @@||data-api.csob.cz^$ctag=os_android|os_ios
+
+# Microsoft
