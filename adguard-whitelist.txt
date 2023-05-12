@@ -31,7 +31,7 @@
 @@||gvt2.com^$ctag=os_android|os_ios
 @@||gvt3.com^$ctag=os_android|os_ios
 @@||googlesyndication.com^$ctag=os_android|os_ios
-## Added 2023-05-07 (Google Marketing - Advertiser)
+## Added 2023-05-12 (Google Marketing - Advertiser)
 @@||googleadservices.com^$ctag=os_android|os_ios
 
 # Avast Ultimate Security - problem with licensing on mobile devices
