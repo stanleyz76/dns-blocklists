@@ -48,6 +48,7 @@
 # Time.is - Web Cookies
 @@||quantcount.com^$important
 @@||quantcount.com^$important
+@@||pub.network^$important
 
 # Calibre - Web Cookies
 @@|amplitude.com^$important
