@@ -47,7 +47,7 @@
 
 # Time.is - Web Cookies
 @@||quantcount.com^$important
-@@||quantcount.com^$important
+@@||quantserve.com^$important
 @@||pub.network^$important
 @@||googlesyndication.com^$important
 @@||analytics.google.com^$important
