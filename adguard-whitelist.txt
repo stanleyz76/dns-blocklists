@@ -49,8 +49,11 @@
 @@||quantcount.com^$important
 @@||quantcount.com^$important
 @@||pub.network^$important
+@@||googlesyndication.com^$important
+@@||analytics.google.com^$important
 
 # Calibre - Web Cookies
 @@||adsafeprotected.com^$important
 @@||adtech.advertising.com^$important
 @@||amplitude.com^$important
+
