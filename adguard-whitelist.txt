@@ -51,4 +51,6 @@
 @@||pub.network^$important
 
 # Calibre - Web Cookies
-@@|amplitude.com^$important
+@@||adsafeprotected.com^$important
+@@||adtech.advertising.com^$important
+@@||amplitude.com^$important
