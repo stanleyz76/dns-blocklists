@@ -46,8 +46,8 @@
 @@||data-api.csob.cz^$ctag=os_android|os_ios
 
 # Time.is - Web Cookies
-@@||quantserve.com^
-@@||quantcount.com^
+@@||quantcount.com^$important
+@@||quantcount.com^$important
 
 # Calibre - Web Cookies
-@@|amplitude.com^
+@@|amplitude.com^$important
