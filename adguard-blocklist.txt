@@ -151,6 +151,7 @@
 ||uptimecdn.com^
 ||wastedinvaluable.com^
 ||wateryzapsandwich.com^
+||weaponsnondescriptperceive.com^
 ||web.finstoriesnews.com^
 ||wpadmngr.com^
 ||wpu.sh^
