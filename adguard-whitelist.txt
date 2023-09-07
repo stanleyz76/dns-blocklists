@@ -36,6 +36,7 @@
 @@||google-analytics.com^$ctag=os_android|os_ios
 ## Added 2023-05-14 (Amazon)
 @@||amazon-adsystem.com^$ctag=os_android|os_ios
+@@||logs.ironsrc.mobi^$ctag=os_android|os_ios
 
 # Avast Ultimate Security - problem with licensing on mobile devices
 ## Added 2023-03-14
