@@ -25,6 +25,8 @@
 @@||google-analytics.com^$ctag=os_android|os_ios
 @@||amazon-adsystem.com^$ctag=os_android|os_ios
 @@||ironsrc.mobi^$ctag=os_android|os_ios
+@@||liftoff.io^$ctag=os_android|os_ios
+@@||liftoff-creatives.io^$ctag=os_android|os_ios
 @@||gemius.pl^$ctag=os_android|os_ios
 @@||brilliantcollector.com^$ctag=os_android|os_ios
 @@||appsflyersdk.com^$ctag=os_android|os_ios
