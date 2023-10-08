@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2023-10-03
+# Last changes - 2023-10-08
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||adspredictiv.com^
@@ -56,6 +56,7 @@
 ||hairoak.com^
 ||harolddebris.com^
 ||herdthan.com^
+||hissedassessmentmistake.com^
 ||hohftspsx.com^
 ||hospitalitydisorder.com^
 ||howploymope.com^
