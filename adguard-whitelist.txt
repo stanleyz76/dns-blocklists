@@ -37,6 +37,7 @@
 @@||grs.dbankcloud.cn^$ctag=os_android|os_ios
 @@||grs.dbankcloud.com^$ctag=os_android|os_ios
 @@||braze.com^$ctag=os_android|os_ios
+@@||adcolony.com^$ctag=os_android|os_ios
 
 # Avast Ultimate Security - problem with licensing on mobile devices
 @@||analytics.ff.avast.com^$ctag=os_android|os_ios
