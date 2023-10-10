@@ -2,42 +2,42 @@
 # Last changes - Added 2023-10-10
 
 ## Blocked by "AdGuard DNS filter" by default
-@@||unity3d.com^$ctag=os_android|os_ios
+@@||adcolony.com^$ctag=os_android|os_ios
+@@||app-measurement.com^$ctag=os_android|os_ios
 @@||applovin.com^$ctag=os_android|os_ios
 @@||applvn.com^$ctag=os_android|os_ios
 @@||adjust.world^$ctag=os_android|os_ios
 @@||adjust.net.in^$ctag=os_android|os_ios
 @@||adjust.com^$ctag=os_android|os_ios
 @@||adsmoloco.com^$ctag=os_android|os_ios
-@@||vungle.com^$ctag=os_android|os_ios
-@@||googleads.g.doubleclick.net^$ctag=os_android|os_ios
-@@||pagead2.googlesyndication.com^$ctag=os_android|os_ios
-@@||csi.gstatic.com^$ctag=os_android|os_ios
-@@||app-measurement.com^$ctag=os_android|os_ios
-@@||supersonicads.com^$ctag=os_android|os_ios
-@@||inner-active.mobi^$ctag=os_android|os_ios
-@@||doubleclick.net^$ctag=os_android|os_ios
-@@||singular.net^$ctag=os_android|os_ios
-@@||gvt2.com^$ctag=os_android|os_ios
-@@||gvt3.com^$ctag=os_android|os_ios
-@@||googlesyndication.com^$ctag=os_android|os_ios
-@@||googleadservices.com^$ctag=os_android|os_ios
-@@||google-analytics.com^$ctag=os_android|os_ios
 @@||amazon-adsystem.com^$ctag=os_android|os_ios
-@@||ironsrc.mobi^$ctag=os_android|os_ios
-@@||liftoff.io^$ctag=os_android|os_ios
-@@||liftoff-creatives.io^$ctag=os_android|os_ios
-@@||gemius.pl^$ctag=os_android|os_ios
-@@||brilliantcollector.com^$ctag=os_android|os_ios
-@@||appsflyersdk.com^$ctag=os_android|os_ios
 @@||appsflyer.com^$ctag=os_android|os_ios
-@@||ssacdn.com^$ctag=os_android|os_ios
+@@||appsflyersdk.com^$ctag=os_android|os_ios
+@@||braze.com^$ctag=os_android|os_ios
+@@||brilliantcollector.com^$ctag=os_android|os_ios
+@@||csi.gstatic.com^$ctag=os_android|os_ios
+@@||doubleclick.net^$ctag=os_android|os_ios
+@@||gemius.pl^$ctag=os_android|os_ios
+@@||google-analytics.com^$ctag=os_android|os_ios
+@@||googleads.g.doubleclick.net^$ctag=os_android|os_ios
+@@||googleadservices.com^$ctag=os_android|os_ios
+@@||googlesyndication.com^$ctag=os_android|os_ios
 @@||grs.dbankcloud.asia^$ctag=os_android|os_ios
 @@||grs.dbankcloud.eu^$ctag=os_android|os_ios
 @@||grs.dbankcloud.cn^$ctag=os_android|os_ios
 @@||grs.dbankcloud.com^$ctag=os_android|os_ios
-@@||braze.com^$ctag=os_android|os_ios
-@@||adcolony.com^$ctag=os_android|os_ios
+@@||gvt2.com^$ctag=os_android|os_ios
+@@||gvt3.com^$ctag=os_android|os_ios
+@@||inner-active.mobi^$ctag=os_android|os_ios
+@@||ironsrc.mobi^$ctag=os_android|os_ios
+@@||liftoff-creatives.io^$ctag=os_android|os_ios
+@@||liftoff.io^$ctag=os_android|os_ios
+@@||pagead2.googlesyndication.com^$ctag=os_android|os_ios
+@@||singular.net^$ctag=os_android|os_ios
+@@||ssacdn.com^$ctag=os_android|os_ios
+@@||supersonicads.com^$ctag=os_android|os_ios
+@@||unity3d.com^$ctag=os_android|os_ios
+@@||vungle.com^$ctag=os_android|os_ios
 
 # Avast Ultimate Security - problem with licensing on mobile devices
 @@||analytics.ff.avast.com^$ctag=os_android|os_ios
