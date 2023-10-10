@@ -192,6 +192,7 @@
 ||www.info-fetoo.com^
 ||xml-api.online^
 ||xmllover.com^
+||zerodecisive.com^
 
 ## ANNOYING SITES - MY OWN LIST
 ||adtng.com^
