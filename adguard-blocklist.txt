@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2023-10-08
+# Last changes - 2023-10-11
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||adspredictiv.com^
