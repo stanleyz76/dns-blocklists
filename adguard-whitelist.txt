@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Whitelist
-# Last changes - Added 2023-10-10
+# Last changes - Added 2023-10-12
 
 ## Blocked by "AdGuard DNS filter" by default
 @@||adcolony.com^$ctag=os_android|os_ios
