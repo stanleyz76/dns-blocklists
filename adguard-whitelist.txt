@@ -13,6 +13,7 @@
 @@||amazon-adsystem.com^$ctag=os_android|os_ios
 @@||appsflyer.com^$ctag=os_android|os_ios
 @@||appsflyersdk.com^$ctag=os_android|os_ios
+@@||branch.io^$ctag=os_android|os_ios
 @@||braze.com^$ctag=os_android|os_ios
 @@||brilliantcollector.com^$ctag=os_android|os_ios
 @@||csi.gstatic.com^$ctag=os_android|os_ios
