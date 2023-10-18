@@ -85,7 +85,7 @@
 ||motivessuggest.com^
 ||movementsspentlist.com^
 ||moverenvironmentalludicrous.com^
-||myadsserver.com^°
+||myadsserver.com^
 ||mybestdl.com^
 ||mybetterck.com^
 ||mybetterdl.com^
