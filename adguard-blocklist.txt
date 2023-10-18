@@ -1,7 +1,8 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2023-10-16
+# Last changes - 2023-10-18
 
 ## Blocked by - TREND MICRO SECURITY AGENT
+||absentlyrindbulk.com^
 ||adspredictiv.com^
 ||advertizementforyour.com^
 ||ahacdn.me^
@@ -69,6 +70,7 @@
 ||info-fetoo.com^
 ||ir3.xyz^
 ||jellyhelpless.com^
+||jollyslendersquare.com^
 ||jollytestpartying.com^
 ||judicialfizzysotball.com^
 ||juryinvolving.com^
