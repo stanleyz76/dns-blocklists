@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2023-11-23
+# Last changes - 2023-11-30
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||absentlyrindbulk.com^
@@ -43,6 +43,7 @@
 ||entry-system.xyz^
 ||envelopeheadache.com^
 ||excusepuncture.com^
+||explosivegleameddesigner.com^
 ||facilitypestilent.com^
 ||fastcaptcha.top^
 ||flirt.thesingles.online^
@@ -52,6 +53,7 @@
 ||g3news.biz^
 ||getarrectlive.com^
 ||go.xxxiijmp.com^
+||gracesmallerland.com^
 ||graduatewonderentreaty.com^
 ||grandchildfee.com^
 ||granorizes.com^
@@ -83,6 +85,7 @@
 ||m.regbu.com^
 ||masstech.info^
 ||medicationneglectedshared.com^
+||mondaydeliciousrevulsion.com^
 ||motivessuggest.com^
 ||movementsspentlist.com^
 ||moverenvironmentalludicrous.com^
@@ -112,6 +115,7 @@
 ||perfunctorytrugal.com^
 ||pettybitternessablebodied.com^
 ||pl17109538.effectivecpmcontent.com^
+||pluralpeachy.com^
 ||ponderousmuffled.com^
 ||poshhateful.com^
 ||prawnsimply.com^
