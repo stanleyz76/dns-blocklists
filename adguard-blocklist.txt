@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2023-12-16
+# Last changes - 2023-12-17
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||absentlyrindbulk.com^
@@ -23,6 +23,7 @@
 ||celeritascdn.com^
 ||claspedtwelve.com^
 ||creative.xxxiijmp.com^
+||confirmexplore.com^
 ||crpop.livejasmin.com^
 ||cstwpush.com^
 ||custodycraveretard.com^
@@ -147,6 +148,7 @@
 ||ro3.biz^
 ||rollmeout.xyz^
 ||rulefloor.com^
+||saunamilitarymental.com^
 ||secondcommander.com^
 ||sedna-aca.com^
 ||servereplacementcycle.com^
@@ -164,10 +166,12 @@
 ||speedilycartrigeglove.com^
 ||srvpcn.com^
 ||stinkwailingbalk.com^
+||strandedpeel.com^
 ||strawguineaequanimity.com^
 ||stucktimeoutvexed.com^
 ||suppliedhopelesspredestination.com^
 ||sw.wpush.org^
+||swordrelievedictum.com^
 ||syndromeentered.com^
 ||takiparkrb.site^
 ||teenfinder.online^
