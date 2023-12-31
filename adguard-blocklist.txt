@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2023-12-30
+# Last changes - 2023-12-31
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||absentlyrindbulk.com^
@@ -59,6 +59,7 @@
 ||grandchildfee.com^
 ||granorizes.com^
 ||gratertiedbubble.com^
+||grooverend.com^
 ||hairoak.com^
 ||harolddebris.com^
 ||herdthan.com^
