@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2024-01-25
+# Last changes - 2024-02-21
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||absentlyrindbulk.com^
@@ -238,6 +238,7 @@
 ||bongacams.com^
 ||camonster.com^
 ||classic.cams.com^
+||cz-play.forgeofempires.com^
 ||dachinogla.com^
 ||bizzocasinolp.com^
 ||bl.dates2flirt.com^
