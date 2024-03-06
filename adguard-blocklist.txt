@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2024-02-25
+# Last changes - 2024-03-06
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||absentlyrindbulk.com^
@@ -233,6 +233,7 @@
 ||zerodecisive.com^
 
 ## ANNOYING SITES - MY OWN LIST
+||4kpornvideos.tv^
 ||adtng.com^
 ||adultfriendfinder.com^
 ||benaughty.com^
