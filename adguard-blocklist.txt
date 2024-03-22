@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2024-03-18
+# Last changes - 2024-03-22
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||absentlyrindbulk.com^
@@ -26,6 +26,7 @@
 ||claspedtwelve.com^
 ||creative.xxxiijmp.com^
 ||confirmexplore.com^
+||constellationtrafficdenounce.com^
 ||crpop.livejasmin.com^
 ||cstwpush.com^
 ||custodycraveretard.com^
