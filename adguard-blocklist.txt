@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2024-03-22
+# Last changes - 2024-04-13
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||absentlyrindbulk.com^
@@ -96,6 +96,7 @@
 ||limitationvolleyballdejected.com^
 ||m.regbu.com^
 ||masstech.info^
+||maydeception.com^
 ||medicationneglectedshared.com^
 ||mondaydeliciousrevulsion.com^
 ||motivessuggest.com^
