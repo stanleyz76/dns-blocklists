@@ -58,3 +58,6 @@
 @@||adtech.advertising.com^$important
 @@||amplitude.com^$important
 
+# O2 TV Set-top-boxes
+@@||androidtvchannels-pa.googleapis.com^$ctag=device_tv
+
