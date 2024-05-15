@@ -1,7 +1,8 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2024-04-18
+# Last changes - 2024-05-15
 
 ## Blocked by - TREND MICRO SECURITY AGENT
+||28255.2477april2024.com^
 ||absentlyrindbulk.com^
 ||adspredictiv.com^
 ||advertizementforyour.com^
