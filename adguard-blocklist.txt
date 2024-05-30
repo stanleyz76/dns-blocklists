@@ -1,5 +1,5 @@
 # AdGuard Home - My Personal Blocklist
-# Last changes - 2024-05-15
+# Last changes - 2024-05-30
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||28255.2477april2024.com^
@@ -25,9 +25,10 @@
 ||captivatepestilentstormy.com^
 ||celeritascdn.com^
 ||claspedtwelve.com^
-||creative.xxxiijmp.com^
+||coatslilachang.com^
 ||confirmexplore.com^
 ||constellationtrafficdenounce.com^
+||creative.xxxiijmp.com^
 ||crpop.livejasmin.com^
 ||cstwpush.com^
 ||custodycraveretard.com^
