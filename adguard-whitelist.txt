@@ -1,4 +1,4 @@
-# AdGuard Home - My Personal Whitelist
+# AdGuard Home - Whitelist
 # Last changes - Added 2024-05-04
 
 ## Blocked by "AdGuard DNS filter" by default
