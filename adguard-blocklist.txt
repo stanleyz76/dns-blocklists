@@ -1,5 +1,5 @@
-# AdGuard Home - My Personal Blocklist
-# Last changes - 2024-06-06
+# AdGuard Home - Blocklist
+# Last changes - 2024-06-13
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||28255.2477april2024.com^
@@ -15,6 +15,7 @@
 ||atzekromchan.com^
 ||auntietraumatizemobile.com^
 ||avoidthehack.com^
+||barnaclewiped.com^
 ||beastbuying.com^
 ||betads.xyz^
 ||blockadsnot.com^
@@ -169,6 +170,7 @@
 ||rmaticalacm.info^
 ||ro3.biz^
 ||rollmeout.xyz^
+||ruefuluphill.com^
 ||rulefloor.com^
 ||saunamilitarymental.com^
 ||secondcommander.com^
@@ -249,7 +251,7 @@
 ||xmllover.com^
 ||zerodecisive.com^
 
-## ANNOYING SITES - MY OWN LIST
+## ANNOYING SITES
 ||4kpornvideos.tv^
 ||adtng.com^
 ||adultfriendfinder.com^
