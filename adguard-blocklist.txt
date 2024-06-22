@@ -1,5 +1,5 @@
 # AdGuard Home - Blocklist
-# Last changes - 2024-06-13
+# Last changes - 2024-06-22
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||28255.2477april2024.com^
@@ -52,6 +52,7 @@
 ||enjisweeps.click^
 ||entry-system.xyz^
 ||envelopeheadache.com^
+||espoluprace.airtracky.cz^
 ||espoluprace.nazarius.cz^
 ||excusepuncture.com^
 ||explosivegleameddesigner.com^
