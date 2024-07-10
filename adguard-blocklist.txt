@@ -175,6 +175,7 @@
 ||rulefloor.com^
 ||saunamilitarymental.com^
 ||secondcommander.com^
+||secure.gdcstatic.com^
 ||sedna-aca.com^
 ||servereplacementcycle.com^
 ||serversmatrixaggregation.com^
