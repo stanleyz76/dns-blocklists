@@ -1,7 +1,8 @@
 # AdGuard Home - Blocklist
-# Last changes - 2024-06-22
+# Last changes - 2024-07-28
 
 ## Blocked by - TREND MICRO SECURITY AGENT
+||11.gxsavoo.com^
 ||28255.2477april2024.com^
 ||absentlyrindbulk.com^
 ||adspredictiv.com^
