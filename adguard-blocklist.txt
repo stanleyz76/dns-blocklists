@@ -1,5 +1,5 @@
 # AdGuard Home - Blocklist
-# Last changes - 2024-08-11
+# Last changes - 2024-08-13
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||11.gxsavoo.com^
@@ -148,13 +148,14 @@
 ||proftrafficcounter.com^
 ||prophetachybrief.com^
 ||prenow.net^
-||puddleincidentally.com^
+||preferablycarbon.com^
 ||plundertentative.com^
 ||pneumoniadecipherattest.com^
 ||positivelyminimalluxury.com^
 ||postcardhazard.com^
 ||premonitioninventdisagree.com^
 ||presumablyconfound.com^
+||puddleincidentally.com^
 ||pursuitcharlesbaker.com^
 ||pushcollection.net^
 ||pushsar.com^
