@@ -1,5 +1,5 @@
 # AdGuard Home - Blocklist
-# Last changes - 2024-08-13
+# Last changes - 2024-10-13
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||11.gxsavoo.com^
@@ -102,6 +102,7 @@
 ||lib1.biz^
 ||limevisitedinaugurate.com^
 ||limitationvolleyballdejected.com^
+||luminous-visit.com^
 ||m.regbu.com^
 ||masstech.info^
 ||maydeception.com^
@@ -206,6 +207,7 @@
 ||strawguineaequanimity.com^
 ||stripherselfscuba.com^
 ||stucktimeoutvexed.com^
+||suiteighteen.com^
 ||suppliedhopelesspredestination.com^
 ||sw.wpush.org^
 ||swordrelievedictum.com^
