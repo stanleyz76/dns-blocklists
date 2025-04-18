@@ -66,6 +66,7 @@
 ||free-coupons.network^
 ||g3news.biz^
 ||getarrectlive.com^
+||gn.filmishquila.com^
 ||go.xxxiijmp.com^
 ||gracesmallerland.com^
 ||graduatewonderentreaty.com^
