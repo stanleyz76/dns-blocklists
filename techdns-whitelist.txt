@@ -38,11 +38,15 @@ supersonicads.com
 unity3d.com
 vungle.com
 
-# Avast Ultimate Security - problem with licensing on mobile devices
-analytics.ff.avast.com
+# Avast Ultimate Security
+avast.com
+avast.cz
 
 # Banking
-data-api.csob.cz
+csas.cz
+csob.cz
+kb.cz
+moneta.cz
 
 # Time.is - Web Cookies
 quantcount.com
@@ -58,3 +62,10 @@ amplitude.com
 
 # O2 TV Set-top-boxes
 androidtvchannels-pa.googleapis.com
+
+# Games
+2k.com
+ea.com
+epicgames.com
+playstation.com
+steampowered.com
