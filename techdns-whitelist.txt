@@ -1,7 +1,7 @@
 # Technitium DNS - Whitelist
 # Last changes - Added 2025-04-26
 
-## Blocked by "AdGuard DNS filter" by default
+# Blocked by "AdGuard DNS filter" by default
 adcolony.com
 app-measurement.com
 applovin.com
@@ -48,20 +48,10 @@ csob.cz
 kb.cz
 moneta.cz
 
-# Time.is - Web Cookies
-quantcount.com
-quantserve.com
-pub.network
-googlesyndication.com
-analytics.google.com
-
 # Calibre - Web Cookies
 adsafeprotected.com
 adtech.advertising.com
 amplitude.com
-
-# O2 TV Set-top-boxes
-androidtvchannels-pa.googleapis.com
 
 # Games
 2k.com
@@ -69,3 +59,13 @@ ea.com
 epicgames.com
 playstation.com
 steampowered.com
+
+# O2 TV Set-top-boxes
+androidtvchannels-pa.googleapis.com
+
+# Time.is - Web Cookies
+quantcount.com
+quantserve.com
+pub.network
+googlesyndication.com
+analytics.google.com
