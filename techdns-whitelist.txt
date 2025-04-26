@@ -27,8 +27,6 @@ grs.dbankcloud.asia
 grs.dbankcloud.eu
 grs.dbankcloud.cn
 grs.dbankcloud.com
-gvt2.com
-gvt3.com
 inner-active.mobi
 ironsrc.mobi
 liftoff-creatives.io
