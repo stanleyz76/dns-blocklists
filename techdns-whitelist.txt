@@ -38,14 +38,14 @@ supersonicads.com
 unity3d.com
 vungle.com
 
-# Avast Ultimate Security
+# Antivirus
 avast.cz
 avast.com
 avg.cz
 avg.com
 avira.com
 
-# Banking
+# Banks
 airbank.cz
 cnb.cz
 csas.cz
