@@ -1,5 +1,5 @@
 # Technitium DNS - Whitelist
-# Last changes - Added 2025-04-30
+# Last changes - Added 2025-05-23
 
 # Blocked by "AdGuard DNS filter" by default
 adcolony.com
@@ -37,24 +37,6 @@ ssacdn.com
 supersonicads.com
 unity3d.com
 vungle.com
-
-# Antivirus
-avast.cz
-avast.com
-avg.cz
-avg.com
-avira.com
-
-# Banks
-airbank.cz
-cnb.cz
-csas.cz
-csob.cz
-fio.cz
-kb.cz
-moneta.cz
-rb.cz
-revolut.com
 
 # Calibre - Web Cookies
 adsafeprotected.com
