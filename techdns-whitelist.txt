@@ -1,5 +1,5 @@
 # Technitium DNS - Whitelist
-# Last changes - Added 2025-05-23
+# Last changes - Added 2025-07-11
 
 # Blocked by "AdGuard DNS filter" by default
 adcolony.com
@@ -47,8 +47,11 @@ amplitude.com
 2k.com
 ea.com
 epicgames.com
+forgeofempires.com
+heroesofhistorygame.com
 playstation.com
 steampowered.com
+sunrisevillagegame.com
 
 # O2 TV Set-top-boxes
 androidtvchannels-pa.googleapis.com
