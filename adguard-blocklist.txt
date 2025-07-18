@@ -1,5 +1,5 @@
 # AdGuard Home - Blocklist
-# Last changes - 2024-10-13
+# Last changes - 2025-07-18
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||11.gxsavoo.com^
@@ -34,6 +34,7 @@
 ||crpop.livejasmin.com^
 ||cstwpush.com^
 ||custodycraveretard.com^
+||cuyuzu.com^
 ||cvrbtmgnvaes.com^
 ||dangerbra.com^
 ||dateddeed.com^
