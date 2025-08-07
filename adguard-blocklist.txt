@@ -1,5 +1,5 @@
 # AdGuard Home - Blocklist
-# Last changes - 2025-07-18
+# Last changes - 2025-08-0
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||11.gxsavoo.com^
@@ -269,15 +269,16 @@
 ||adtng.com^
 ||adultfriendfinder.com^
 ||benaughty.com^
+||bizzocasinolp.com^
+||bl.dates2flirt.com^
+||bl.flirthits4you.com^
 ||bongacams.com^
 ||camonster.com^
 ||classic.cams.com^
 ||crazyshare.cc^
 ||cz-play.forgeofempires.com^
 ||dachinogla.com^
-||bizzocasinolp.com^
-||bl.dates2flirt.com^
-||bl.flirthits4you.com^
+||fantasyescortblogs.com^
 ||finddatinglocally.com^
 ||firecams.com^
 ||fuqpremium.com^
