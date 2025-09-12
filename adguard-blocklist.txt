@@ -1,9 +1,8 @@
 # AdGuard Home / Technitium DNS - Blocklist
-# Last changes - 2025-08-0
+# Last changes - 2025-09-11
 
-## Blocked by - Avast
+## Blocked by - AVAST
 ||goodieracer.com^
-
 
 ## Blocked by - TREND MICRO SECURITY AGENT
 ||11.gxsavoo.com^
