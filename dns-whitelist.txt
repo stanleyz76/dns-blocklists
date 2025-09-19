@@ -1,0 +1,67 @@
+# Technitium DNS - Whitelist
+# Last changes - Added 2025-07-11
+
+# Blocked by "AdGuard DNS filter" by default
+adcolony.com
+app-measurement.com
+applovin.com
+applvn.com
+adjust.world
+adjust.net.in
+adjust.com
+adsmoloco.com
+amazon-adsystem.com
+appsflyer.com
+appsflyersdk.com
+branch.io
+braze.com
+brilliantcollector.com
+csi.gstatic.com
+doubleclick.net
+gemius.pl
+google-analytics.com
+googleads.g.doubleclick.net
+googleadservices.com
+googlesyndication.com
+grs.dbankcloud.asia
+grs.dbankcloud.eu
+grs.dbankcloud.cn
+grs.dbankcloud.com
+inner-active.mobi
+ironsrc.mobi
+liftoff-creatives.io
+liftoff.io
+pagead2.googlesyndication.com
+singular.net
+ssacdn.com
+supersonicads.com
+unity3d.com
+vungle.com
+
+# Calibre - Web Cookies
+adsafeprotected.com
+adtech.advertising.com
+amplitude.com
+
+# Games
+2k.com
+ea.com
+epicgames.com
+forgeofempires.com
+heroesofhistorygame.com
+playstation.com
+steampowered.com
+sunrisevillagegame.com
+
+# O2 TV Set-top-boxes
+androidtvchannels-pa.googleapis.com
+
+# Time.is - Web Cookies
+quantcount.com
+quantserve.com
+pub.network
+googlesyndication.com
+analytics.google.com
+
+# Raspberry
+raspberrypi.com
