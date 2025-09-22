@@ -1,5 +1,5 @@
 # AdGuard Home / Technitium DNS - Blocklist
-# Last changes - 2025-09-19
+# Last changes - 2025-09-22
 
 ## Blocked by - AVAST
 ||goodieracer.com^
