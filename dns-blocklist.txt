@@ -3,7 +3,7 @@
 
 ## Blocked by - AVAST
 ||goodieracer.com^
-||i.postimg.cc^
+# ||i.postimg.cc^
 ||nextzonelivekeybestz.com^
 
 ## Blocked by - TREND MICRO SECURITY AGENT
