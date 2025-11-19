@@ -1,5 +1,5 @@
 # AdGuard Home / Technitium DNS - Blocklist
-# Last changes - 2025-11-12
+# Last changes - 2025-11-19
 
 ## Blocked by - AVAST
 ||goodieracer.com^
@@ -252,7 +252,7 @@
 ||uvudfzxc.com^
 ||vgxge.icu^
 ||vibiu-dau.com^
-||wargaming-aff.com^
+||track.wargaming-aff.com^
 ||wastedinvaluable.com^
 ||wateryzapsandwich.com^
 ||weaponsnondescriptperceive.com^
