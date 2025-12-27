@@ -1,5 +1,5 @@
 # AdGuard Home / Technitium DNS - Blocklist
-# Last changes - 2025-11-19
+# Last changes - 2025-12-27
 
 ## Blocked by - AVAST
 ||goodieracer.com^
@@ -312,6 +312,7 @@
 ||sex.cz^
 ||sexiwatch.com^
 ||sexomega.com^
+||sinparty.com^
 ||skinstrip.net^
 ||smarttds.org^
 ||stripchat.com^
