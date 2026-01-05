@@ -1,1 +1,1 @@
-# AdGuard Home / Technitium DNS - personal blocklist / whitelist
+Technitium DNS - personal blocklist / whitelist
