@@ -1,5 +1,5 @@
 # Technitium DNS - Whitelist
-# Last changes - Added 2025-07-11
+# Last changes - Added 2026-30-01
 
 # Blocked by "AdGuard DNS filter" by default
 adcolony.com
@@ -37,6 +37,7 @@ ssacdn.com
 supersonicads.com
 unity3d.com
 vungle.com
+x3m.biz
 
 # Calibre - Web Cookies
 adsafeprotected.com
