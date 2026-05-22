@@ -1,13 +1,10 @@
 # AdGuard Home / Technitium DNS - Blocklist
-# Last changes - 2026-05-12
+# Last changes - 2026-05-22
 
-## Blocked by - AVAST
 ||goodieracer.com^
 # ||i.postimg.cc^
 ||nextzonelivekeybestz.com^
 ||rqtvigoy.ru^
-
-## Blocked by - TREND MICRO SECURITY AGENT
 ||11.gxsavoo.com^
 ||28255.2477april2024.com^
 ||absentlyrindbulk.com^
@@ -97,6 +94,7 @@
 ||chpok.site^
 ||idea-shopping.xyz^
 ||ifknittedhurtful.com^
+||imgpv.com^
 ||impressivepointcircular.com^
 ||info-fetoo.com^
 ||innocentvariety.com^
@@ -272,8 +270,6 @@
 ||xml-api.online^
 ||xmllover.com^
 ||zerodecisive.com^
-
-## ANNOYING SITES
 ||4kpornvideos.tv^
 ||adtng.com^
 ||adultfriendfinder.com^
