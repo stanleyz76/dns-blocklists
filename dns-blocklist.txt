@@ -1,5 +1,5 @@
 # AdGuard Home / Technitium DNS - Blocklist
-# Last changes - 2026-05-27
+# Last changes - 2026-05-31
 
 ||goodieracer.com^
 # ||i.postimg.cc^
@@ -59,6 +59,7 @@
 ||enjisweeps.click^
 ||entry-system.xyz^
 ||envelopeheadache.com^
+||epicgameshubham.com^
 ||espoluprace.airtracky.cz^
 ||espoluprace.nazarius.cz^
 ||excusepuncture.com^
