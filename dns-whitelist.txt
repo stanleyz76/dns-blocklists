@@ -1,5 +1,27 @@
 # Technitium DNS - Whitelist
-# Last changes - Added 2026-30-01
+# Last changes - Added 2026-06-19
+
+# Apple Services
+# Use Apple products on enterprise networks -> https://support.apple.com/en-au/101555
+app-site-association.networking.apple   # Associated domains for universal links
+apple.com
+apple.com.edgesuite.net
+apple-cloudkit.com
+apple-livephotoskit.com
+apple-mapkit.com
+apple-relay.cloudflare.com              # Private Cloud Compute
+apple-relay.fastly-edge.com             # Private Cloud Compute
+cp4.cloudflare.com                      # Private Cloud Compute
+appleschoolcontent.com
+apzones.com                             # iCloud services in China mainland
+cdn-apple.com
+digicert.cn                             # Certificate validation in China mainland
+digicert.com                            # Certificate validation
+icloud.com
+icloud-content.com
+mzstatic.com
+safebrowsing.apple
+vertexsmb.com
 
 # Blocked by "AdGuard DNS filter" by default
 adcolony.com
